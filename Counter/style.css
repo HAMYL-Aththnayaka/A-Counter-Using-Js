@@ -1,0 +1,23 @@
+#countlable{
+    display:block;
+    text-align: center;
+    font-size: 5cm;
+    font-family:Helvetica;
+}
+
+div{
+    text-align: center;
+    
+}
+.buttons{
+    font-size: 1.5em;
+    padding:10px 20px;
+    color:rgb(19, 18, 18);
+    background-color:blueviolet;
+    border-radius:5px ;
+    cursor:pointer;
+    transition:background-color 0.25s;
+}
+.buttons:hover{
+    background-color: chartreuse;
+}
